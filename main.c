@@ -1,5 +1,5 @@
 #include <stdio.h>
-#include ".h"
+#include "tipos.h"
 
 int main() {
     Pessoa pessoa;

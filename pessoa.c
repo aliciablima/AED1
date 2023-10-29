@@ -1,4 +1,4 @@
-#include ".h"
+#include "tipos.h"
 #include <stdio.h>
 
 void preencherPessoa(Pessoa* pessoa) {
@@ -18,7 +18,7 @@ void imprimirPessoa(Pessoa* pessoa) {
 }
 
 void preencherData(Data* data) {
-    printf("Dia/Mês/Ano:\n");
+    printf("Dia/Mes/Ano:\n");
     scanf("%d/%d/%d", &data->dia, &data->mes, &data->ano);
 }
 
