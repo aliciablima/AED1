@@ -1,9 +1,7 @@
-// arquivo.h
-
 #ifndef LISTA_LINEAR_SEQUENCIAL_H
 #define LISTA_LINEAR_SEQUENCIAL_H
 
-#define MAX_TAMANHO 100 // Tamanho máximo da lista
+#define MAX_TAMANHO 100 
 
 typedef struct {
     int chave;

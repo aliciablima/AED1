@@ -1,5 +1,3 @@
-// arquivo.c
-
 #include "arquivo.h"
 #include <stdio.h>
 
